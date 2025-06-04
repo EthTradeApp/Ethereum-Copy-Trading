@@ -1,4 +1,4 @@
-# Copy Trading Platform on Ethereum  
+# Copy Trading Platform(Bot) on Ethereum  
 
 This platform allows users to participate in **copy trading** on the Ethereum blockchain. Users can follow traders they admire and automatically replicate their trades using smart contracts, ensuring transparency and decentralization.
 
