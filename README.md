@@ -66,5 +66,6 @@ The platform is powered by Solidity smart contracts that manage the following:
 ### Prerequisites  
 1. **MetaMask** or a similar Ethereum wallet.  
 2. Access to an Ethereum testnet (e.g., Goerli or Sepolia).  
-3. Basic ETH and test tokens for transactions.  
+3. Basic ETH and test tokens for transactions.
 
+#Copy #Ethereum #MetaMask #SmartContracts #Trading #CryptoTrading
